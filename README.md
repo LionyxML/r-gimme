@@ -1,20 +1,18 @@
-# [rX] Plotter
+# [r] Gimme
 
-It's a python software you can use to plot mathematical functions into graphics. Works as a king of GUI to sympy.
+It's a python tool you can use to get all links on a webpage.
 
-Requires: sympy (1.4), matplotlib (3.1.2), tkinter (built-in)
+Requires: beautifulsoup4 (4.8.1)
 
 Developed in python 3.7.5.
 
-Tested under Windows 10 and MacOS Catalina.
+Tested under Windows 10, MacOS Catalina and Linux
 
 ## Features
-- Up to 9 functions
-- Selectable plots 
-- Selectable color
-- Customizable Title
-- Customizable range and step
+- Returns on standard output
+- Can receive more then one url as argument
+- Completes relative links with the base url
 
 ## Screenshots
-![Demo](img/full.png)
+![Demo](img/demo.gif)
 
