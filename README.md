@@ -1,4 +1,4 @@
-# [r] Gimme
+# r-gimme
 
 It's a python tool you can use to get all links on a webpage.
 
